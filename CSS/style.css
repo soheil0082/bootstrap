@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  width: 100%;
+  height: fit-content;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("/Img/bryan-goff-Er5b_Fu2H5A-unsplash.jpg");
+  padding-bottom: 20vh;
+}
+
+form {
+  width: 80%;
+  float: right;
+}
+
+.bi {
+  font-size: 30px;
+}
+
+.mySpan {
+  max-width: 42rem;
+  color: rgb(194, 194, 194);
+}
+
+.btn-outline-secondary {
+  color: #c2bebe !important;
+  border-color: #c2bebe !important;
+}
+
+.btn-outline-secondary:hover {
+  color: aliceblue !important;
+  border-color: #c2bebe !important;
+  background-color: #c2bebe !important;
+}
+
+.Oimage {
+  background: url(/Img/vino-li-pCjw_ygKCv0-unsplash.jpg);
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  border-radius: 500px;
+}
+
+.Mimage {
+  background: url(/Img/jake-hills-z0gDv24X3uQ-unsplash.jpg);
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  border-radius: 500px;
+}
+
+.Gimage {
+  background: url(/Img/gabriel-yuji--rROrwffwpk-unsplash.jpg);
+  width: 400px;
+  height: 400px;
+  background-size: cover;
+  border-radius: 500px;
+}
